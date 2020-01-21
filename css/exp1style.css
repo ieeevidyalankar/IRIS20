@@ -383,5 +383,20 @@ button:focus+.design-container {
 #tweet:hover{
   color: #5BB2FE;
 }
+footer{
+  padding-top: 10px;
+}
 
+#sponsor h3{
+  text-align: center;
+}
 
+#sponsor{
+  padding: 10px;
+  
+}
+
+#sponsor img{
+  width: 200px;
+  height: 100px;
+}
