@@ -110,6 +110,9 @@
   transform: rotateY(180deg);
   z-index: 1;
 }
+.det{
+  font-color: black;
+}
 
 /* figure */
 figure {
