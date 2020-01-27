@@ -142,14 +142,14 @@ figcaption {
   display: block;
 
   width: auto;
-  margin-top: 12%;
-  padding: 8px 22px;
+  margin-top: 10%;
+  padding: 4px 11px;
 
   font-weight: bold;
   line-height: 1.6;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   word-spacing: 6px;
-  text-align: right;
+  text-align: left;
 
   position: absolute;
   top: 0;
