@@ -17,7 +17,7 @@ new WOW().init();
 
 $('.countdown').final_countdown({
     start : new Date("January 01, 2021").getTime()/1000,
-    end   : new Date("February 03, 2021").getTime()/1000,
+    end   : new Date("February 03, 2021 19:00").getTime()/1000,
     now : Date.now()/1000,
 seconds: {
 borderColor: '#5677fc',
