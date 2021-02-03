@@ -18,23 +18,32 @@
 #box1 p{
   font-size: 1.1em;
 }
+
+#box1 h5,h6{
+  color: #8c8c8c;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  margin: 0 0 0 0;
+  padding: 0;
+  text-align: left !important;
+}
+
 .col-centered {
   float: none;
   margin-right: auto;
   margin-left: auto;
 }
-#box2 {
-  min-height: 100vh;
-  /*padding: 40px;
-*/
+#speakers {
+  /* min-height: 100vh; */
+  /*padding: 100px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  font-family: "Lato", "Segoe Ui", -apple-system, BlinkMacSystemFont, sans-serif;
+  align-items: center;*/
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Lato",sans-serif;
 }
 
-#box2 h3{
+#speakers h3{
   color: white;
   background: black;
   padding: 10px;
@@ -404,8 +413,7 @@ footer{
 }
 
 #sponsor{
-  padding: 10px;
-  
+  padding-bottom: 10px;
 }
 
 #sponsor img{
