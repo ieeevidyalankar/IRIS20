@@ -470,7 +470,7 @@ h3#speakers {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  padding: 2rem;
+  padding: 2rem 0;
   margin-top: 15px;
 }
 
@@ -670,4 +670,30 @@ h5 {
   .heading {
     font-size: 25px;
   }
+}
+
+.commingsoon1,
+.commingsoon2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  font-size: 2rem;
+  text-align: center;
+  width: 80%;
+  height: 10rem;
+  border-radius: 0.5rem;
+}
+
+.commingsoon1 {
+  background-image: url(../img/bg.jpg);
+  background-position: center 45%;
+  color: #ddd;
+}
+
+.commingsoon2 {
+  background-image: url(../img/irisfp.jpeg);
+  background-position: center 52%;
+  opacity: 0.7;
+  color: #aaa;
 }
