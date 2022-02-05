@@ -392,6 +392,15 @@ h3.glimpses-text {
   color: #fff;
 }
 
+.joinbtn {
+  color: #141a28 !important;
+}
+
+.joinbtn:hover {
+  color: #141a28c4 !important;
+  text-decoration: underline;
+}
+
 .eventregister .registerbutton:hover {
   background-color: transparent;
   color: #000;
