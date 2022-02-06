@@ -392,6 +392,10 @@ h3.glimpses-text {
   color: #fff;
 }
 
+.registerbutton .disabled {
+  cursor: not-allowed;
+}
+
 .joinbtn {
   display: flex;
   align-items: center;
