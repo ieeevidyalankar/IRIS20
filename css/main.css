@@ -393,6 +393,8 @@ h3.glimpses-text {
 }
 
 .joinbtn {
+  display: flex;
+  align-items: center;
   color: #141a28 !important;
 }
 
