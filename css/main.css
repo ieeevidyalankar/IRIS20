@@ -689,8 +689,8 @@ h5 {
   }
 }
 
-.commingsoon1,
-.commingsoon2 {
+.comingsoon1,
+.comingsoon2 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -702,16 +702,9 @@ h5 {
   border-radius: 0.5rem;
 }
 
-.commingsoon1 {
+.comingsoon1 {
   background-image: url(../img/bg1.jpg), linear-gradient(#333333a4, #aaaaaab6);
   background-size: cover;
   background-position: left 90%;
   color: #ddd;
-}
-
-.commingsoon2 {
-  background-image: url(../img/irisfp.jpeg);
-  background-position: center 52%;
-  opacity: 0.4;
-  color: #aaa;
 }
